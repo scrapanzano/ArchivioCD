@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.unibs.fp.archiviocd","l":"ArchivioCd"},{"p":"it.unibs.fp.archiviocd","l":"Brano"},{"p":"it.unibs.fp.archiviocd","l":"Cd"},{"p":"it.unibs.fp.archiviocd","l":"MainClass"},{"p":"it.unibs.fp.archiviocd","l":"StringheUtili"}];updateSearchResults();
